@@ -16,3 +16,6 @@ In this repo you can find all reports from deBridge security audit partners.
 13) [**Solana Contracts final Audit Report**](https://github.com/debridge-finance/debridge-security/files/8908001/DeBridge_Solana_Contracts_Solana_Program_Security_Audit_Report_Halborn.pdf) by **Halborn** _(published on 14.06.2022)_
 14) [**Solidity Smart Contract final Audit Report**](https://github.com/debridge-finance/debridge-security/files/9085225/DeBridge_Solidity_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) by **Halborn** _(published on 16.06.2022)_
 15) [**CrossChain Swaps Affiliate Fees Audit Report**](https://github.com/debridge-finance/debridge-security/files/9189874/deBridge_Crosschain_Forwarder_Smart_Contract_Security_Audit_Report.pdf) by **Halborn** _(published on 26.07.2022)_
+16) [**SolanaEventsReader Audit Report**](https://github.com/debridge-finance/debridge-security/files/9605897/Debridge_Solana_Event_Reader_Whitebox_Pentest_Report_Halborn_Final.pdf)
+874/deBridge_Crosschain_Forwarder_Smart_Contract_Security_Audit_Report.pdf) by **Halborn** _(published on 20.09.2022)_
+17) [**Solana transaction parser**](https://github.com/debridge-finance/debridge-security/files/9605919/Debridge_solana_tx_parser_Whitebox_Pentest_Report_Halborn_Final.pdf) by **Halborn** _(published on 20.09.2022)_
