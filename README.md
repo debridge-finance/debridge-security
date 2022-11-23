@@ -18,3 +18,8 @@ In this repo you can find all reports from deBridge security audit partners.
 15) [**SolanaEventsReader Audit Report**](https://github.com/debridge-finance/debridge-security/files/9605897/Debridge_Solana_Event_Reader_Whitebox_Pentest_Report_Halborn_Final.pdf) by **Halborn** _(published on 20.09.2022)_
 16) [**Solana transaction parser**](https://github.com/debridge-finance/debridge-security/files/9605919/Debridge_solana_tx_parser_Whitebox_Pentest_Report_Halborn_Final.pdf) by **Halborn** _(published on 20.09.2022)_
 17) [**Crosschain Forwarder Audit Report**](https://github.com/debridge-finance/debridge-security/files/9861301/deBridge_Cross_Chain_Forwarder_Update_Smart_Contract_Security_Audit.pdf) by **Halborn** _(published on 25.10.2022)_
+
+**Participate in our [Bounty Program](https://immunefi.com/bounty/debridge/)**
+
+[<img width="640" alt="bug-bounty-dark-2x" src="https://user-images.githubusercontent.com/31035222/203510391-12b09b92-6957-4712-a7ac-4269a3bbfb86.png">](https://immunefi.com/bounty/debridge/)
+
