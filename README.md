@@ -23,6 +23,7 @@ In this repo you can find all reports from deBridge security audit partners.
 20) [**Solana Events Reader Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/DeBridgde_Solana_Events_Reader_Rust_Program_Security_Audit_Report.pdf) by **Halborn** _(published on 29.06.2023)_
 21) [**Solana Contracts Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/Debridge_Solana_Contracts_Solana_Program_Security_Audit_Report_Halborn.pdf) by **Halborn** _(published on 29.06.2023)_
 22) [**DLN Solana Diff v0.1.3 - v0.2.0 Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/Debridge_DLN_Solana_Program_Security_Audit_Report_Halborn_Final.pdf) by **Halborn** _(published on 29.06.2023)_
+23) [**DLN External Call Audit Report**](https://github.com/debridge-finance/debridge-security/files/12713693/DeBridge_DLN_External_Call_Smart_Contract_Security_Assessment_Report.pdf) by **Halborn** _(published on 25.09.2023)_
 
 **Participate in our [Bounty Program](https://immunefi.com/bounty/debridge/)**
 
