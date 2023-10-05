@@ -26,6 +26,7 @@ In this repo you can find all reports from deBridge security audit partners.
 23) [**DLN External Call Audit Report**](https://github.com/debridge-finance/debridge-security/files/12713693/DeBridge_DLN_External_Call_Smart_Contract_Security_Assessment_Report.pdf) by **Halborn** _(published on 25.09.2023)_
 24) [**DLN Taker Audit Report**](https://github.com/debridge-finance/debridge-security/files/12820683/DeBridge_DLN_Taker_Code_Security_Assessment_Report_Halborn_Final.pdf)
 by **Halborn** _(published on 05.10.2023)_
+25) [**EVM to Solana Serializer Audit Report**](https://github.com/debridge-finance/debridge-security/files/12820862/DeBridge_EVM_to_Solana_Serializer_Smart_Contract_Security_Assessment.pdf) by **Halborn** _(published on 05.10.2023)_
 
 **Participate in our [Bounty Program](https://immunefi.com/bounty/debridge/)**
 
