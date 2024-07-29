@@ -29,6 +29,7 @@ by **Halborn** _(published on 05.10.2023)_
 25) [**EVM to Solana Serializer Audit Report**](https://github.com/debridge-finance/debridge-security/files/12820862/DeBridge_EVM_to_Solana_Serializer_Smart_Contract_Security_Assessment.pdf) by **Halborn** _(published on 05.10.2023)_
 26) [**deBridge extcall Solana Program Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/Debridge_extcall_Solana_Program_Security_Assessment_Report_Halborn.pdf) by **Halborn** _(published on 24.11.2023)_
 27) [**deBridge DLN EVM Bridge Smart Contract Security Assessment**](https://github.com/debridge-finance/debridge-security/blob/master/DeBridge_DLN_EVM_Bridge_1_3_0_Smart_Contract_Security_Assessment.pdf) by **Halborn** _(published on 18.06.2024)_
+28) [**DLN Solana Release Assessment**](https://github.com/debridge-finance/debridge-security/blob/master/DLN%20Solana%20Release%20Assessment%20Report.pdf) by **Halborn** _(published on 29.07.2024)_
 
 **Participate in our [Bounty Program](https://immunefi.com/bounty/debridge/)**
 
