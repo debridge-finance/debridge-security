@@ -32,6 +32,8 @@ by **Halborn** _(published on 05.10.2023)_
 28) [**DLN Solana Release Assessment**](https://github.com/debridge-finance/debridge-security/blob/master/DLN%20Solana%20Release%20Assessment%20Report.pdf) by **Halborn** _(published on 29.07.2024)_
 29) [**CrosschainForwarder Allowances Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/CrosschainForwarder%20Allowances%20Audit.pdf) by **Halborn** _(published on 30.09.2024)_
 30) [**Airdrop Contract Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/DeBridge_Airdrop_Contract%20_%20SSC.pdf) by **Halborn** _(published on 16.10.2024)_
+31) [**deBridge Core Protocol Solana Contracts Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/deBridge%20Core%20Protocol%20Solana%20Contracts%20_%20SSC.pdf) by **Halborn** _(published on 15.11.2024)_
+32) [**DLN Solana Contracts Audit Report**](https://github.com/debridge-finance/debridge-security/blob/master/DLN%20Solana%20Contracts%20_%20SSC.pdf) by **Halborn** _(published on 15.11.2024)_
 
 **Participate in our [Bounty Program](https://immunefi.com/bounty/debridge/)**
 
